@@ -4,13 +4,13 @@
 <h2>A Powerful, Smart And Simple Group Manager bot </h2>
 
 <p align="center">
-  <a href="https://github.com/Madushankabro/TheElina-Bot/stargazers">
-    <img src="https://img.shields.io/github/stars/Madushankabro/TheElina-Bot?style=social">
+  <a href="https://github.com/TeamElina/TheElinBot/stargazers">
+    <img src="https://img.shields.io/github/stars/TeamElina/TheElinBot?style=social">
 
   </a>
   
-  <a href="https://github.com/Madushankabro/TheElina-Bot/fork">
-    <img src="https://img.shields.io/github/forks/Madushankabro/TheElina-Bot?label=Fork&style=social">
+  <a href="https://github.com/TeamElina/TheElinBot/fork">
+    <img src="https://img.shields.io/github/forks/TeamElina/TheElinBot?label=Fork&style=social">
 
   </a>  
 </p>
