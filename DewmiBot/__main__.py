@@ -70,13 +70,13 @@ Promote me as *ADMIN* to let me get in action!
 Hit  /help to see *all the commands* and how they work!
 """
 
-PM_IMG = "https://telegra.ph/file/c0afb228c4b1fcefac3bb.jpg"
+PM_IMG = "https://telegra.ph/file/0ecc36bf5e0ba468e8a23.jpg"
 
 
 HELP_STRINGS = f"""
 *⚊❮❮❮『 Ξ L I N Λ  HΞLP MΞИU 』❯❯❯⚊*
 
-Hay !👋 I'm  Ξ L I N Λ [👸](https://telegra.ph/file/c0afb228c4b1fcefac3bb.jpg)
+Hay !👋 I'm  Rɛм ҳ мα𝗇αgɛ💥 [👸](https://telegra.ph/file/0ecc36bf5e0ba468e8a23.jpg)
 
 The following funtions will helpful to you to manage your group. 😇
 
@@ -98,13 +98,13 @@ BUTTONS = [
             text="🔱 ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ 🔱", url="http://t.me/TheElinaBot?startgroup=true"),
     ],
     [
-        InlineKeyboardButton(text="📰 ʙᴏᴛ ɴᴇᴡs 📰", url=f"https://t.me/ElinaNews"),
+        InlineKeyboardButton(text="📰 ʙᴏᴛ ɴᴇᴡs 📰", url=f"https://t.me/remxowner"),
         InlineKeyboardButton(
-            text="👥 ʙᴏᴛ sᴜᴘᴘᴏʀᴛ 👥", url=f"https://t.me/ElinaSupport"
+            text="👥 ʙᴏᴛ sᴜᴘᴘᴏʀᴛ 👥", url=f"https://t.me/xtromxsupport"
         ),
     ],
     [
-        InlineKeyboardButton(text="★ ʀᴇᴠɪᴇᴡ ᴜs ★", url=f"https://t.me/tlgrmcbot?start=theelinabot"),
+        InlineKeyboardButton(text="★ ʀᴇᴠɪᴇᴡ ᴜs ★", url=f"https://t.me/contentreview9"),
         InlineKeyboardButton(
             text="ℹ️ ᴀʙᴏᴜᴛ ℹ️", callback_data="aboutmanu_"
         ),
